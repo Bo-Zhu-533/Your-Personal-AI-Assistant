@@ -11,6 +11,9 @@
 # production
 /build
 
+
+.env
+server/.env
 # misc
 .DS_Store
 .env.local
@@ -21,3 +24,14 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Dependencies
+/server/node_modules/
+
+# Environment variables
+.env.*
+!.env.example
+
+# Local audio and video test files
+server/speech.mp3
+server/voices/
