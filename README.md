@@ -2,6 +2,7 @@
 
 A full-stack AI assistant built with React, Node.js, Express, and the OpenAI API. The project provides an interactive chat interface and explores voice-related features, including text-to-speech.
 
+![AI Assistant Chat Interface](screenshots/chat-interface.png)
 
 **Features**
 
